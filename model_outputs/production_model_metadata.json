@@ -1,0 +1,62 @@
+{
+  "target": "objective_recovery_time_seconds_target",
+  "target_status": "existing synthetic objective target",
+  "stage_2_status": "not trained: no independently observed remaining-time target",
+  "group_column": "participant_id",
+  "train_rows": 1152,
+  "test_rows": 288,
+  "train_participants": 144,
+  "test_participants": 36,
+  "random_state": 42,
+  "feature_modes": {
+    "early": [
+      "sleep_hours",
+      "sleep_quality_1_5",
+      "pre_fatigue_1_5",
+      "pre_stress_1_5",
+      "pre_focus_1_5",
+      "task_familiarity_1_5",
+      "expected_difficulty_1_5",
+      "baseline_typing_wpm",
+      "baseline_error_rate",
+      "baseline_pause_seconds",
+      "interruption_urgency_1_5",
+      "interruption_relevance_1_5",
+      "interruption_cognitive_demand_1_5",
+      "emotional_disturbance_1_5",
+      "condition",
+      "task_type",
+      "environment",
+      "deadline_pressure",
+      "interruption_type",
+      "interruption_expectedness"
+    ],
+    "duration": [
+      "sleep_hours",
+      "sleep_quality_1_5",
+      "pre_fatigue_1_5",
+      "pre_stress_1_5",
+      "pre_focus_1_5",
+      "task_familiarity_1_5",
+      "expected_difficulty_1_5",
+      "baseline_typing_wpm",
+      "baseline_error_rate",
+      "baseline_pause_seconds",
+      "interruption_urgency_1_5",
+      "interruption_relevance_1_5",
+      "interruption_cognitive_demand_1_5",
+      "emotional_disturbance_1_5",
+      "condition",
+      "task_type",
+      "environment",
+      "deadline_pressure",
+      "interruption_type",
+      "interruption_expectedness",
+      "interruption_duration_seconds"
+    ]
+  },
+  "selected_models": {
+    "early": "early_random_forest",
+    "duration": "duration_random_forest"
+  }
+}

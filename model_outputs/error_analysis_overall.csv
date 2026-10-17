@@ -1,0 +1,3 @@
+model,MAE_seconds,RMSE_seconds,mean_signed_error_seconds,median_absolute_error_seconds,max_absolute_error_seconds
+Model A - Early prediction,4.682001682485449,6.24939195999827,-0.18604886345202598,3.751269763662251,18.836819628427122
+Model B - Duration available,4.356127425832194,5.704656002760799,0.05816821326360186,3.545579005069004,19.711076193621203

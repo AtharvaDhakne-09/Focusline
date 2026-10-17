@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+app/frontend/node_modules/
+app/frontend/dist/
+
+app/prediction_history.sqlite3
+*.log
+
+model_outputs/*.joblib
+model_outputs/*.pkl

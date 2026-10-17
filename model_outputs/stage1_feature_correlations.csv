@@ -1,0 +1,11 @@
+feature,correlation_with_target
+expected_difficulty_1_5,0.20716506426135525
+pre_fatigue_1_5,0.19256474977143279
+pre_stress_1_5,0.07411790004498402
+pre_focus_1_5,-0.05431941837038846
+baseline_error_rate,-0.04369921830535326
+baseline_pause_seconds,-0.03711992015554133
+sleep_hours,0.037033668477359505
+task_familiarity_1_5,-0.01971979038933692
+sleep_quality_1_5,-0.010324269987437738
+baseline_typing_wpm,0.007912896957308528

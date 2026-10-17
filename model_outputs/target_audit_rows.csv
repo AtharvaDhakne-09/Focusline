@@ -1,0 +1,1441 @@
+participant_id,condition,interruption_type,interruption_duration_seconds,objective_recovery_time_seconds_target
+P001,Phone call,Phone call,28.43,44.3
+P001,No interruption,None - control,0.0,1.5
+P001,Cognitively demanding question,Cognitively demanding question,18.01,19.15
+P001,Email notification,Email notification,12.75,18.46
+P001,Message notification,Message notification,10.41,12.2
+P001,Social media notification,Social media notification,18.4,20.38
+P001,Unrelated computer task,Unrelated computer task,12.94,18.69
+P001,Another person asking a question,Another person asking a question,22.15,16.26
+P002,Social media notification,Social media notification,10.06,8.52
+P002,Unrelated computer task,Unrelated computer task,31.64,31.28
+P002,Message notification,Message notification,10.58,18.41
+P002,Cognitively demanding question,Cognitively demanding question,24.92,19.75
+P002,Email notification,Email notification,16.6,16.21
+P002,Another person asking a question,Another person asking a question,11.69,5.17
+P002,No interruption,None - control,0.0,1.5
+P002,Phone call,Phone call,10.37,15.16
+P003,Cognitively demanding question,Cognitively demanding question,11.59,12.38
+P003,Message notification,Message notification,5.97,15.64
+P003,No interruption,None - control,0.0,1.5
+P003,Email notification,Email notification,16.11,11.88
+P003,Another person asking a question,Another person asking a question,19.13,17.73
+P003,Unrelated computer task,Unrelated computer task,40.74,20.77
+P003,Social media notification,Social media notification,12.84,8.51
+P003,Phone call,Phone call,24.01,19.26
+P004,Cognitively demanding question,Cognitively demanding question,26.39,13.14
+P004,No interruption,None - control,0.0,1.5
+P004,Social media notification,Social media notification,20.39,18.07
+P004,Phone call,Phone call,19.62,14.66
+P004,Another person asking a question,Another person asking a question,17.28,23.93
+P004,Email notification,Email notification,12.13,2.17
+P004,Message notification,Message notification,4.55,9.29
+P004,Unrelated computer task,Unrelated computer task,32.48,26.82
+P005,Email notification,Email notification,10.77,16.31
+P005,No interruption,None - control,0.0,1.5
+P005,Cognitively demanding question,Cognitively demanding question,17.46,11.46
+P005,Message notification,Message notification,5.25,11.36
+P005,Phone call,Phone call,25.43,23.0
+P005,Social media notification,Social media notification,14.23,14.92
+P005,Unrelated computer task,Unrelated computer task,30.52,11.28
+P005,Another person asking a question,Another person asking a question,15.33,16.48
+P006,Message notification,Message notification,8.67,14.98
+P006,Email notification,Email notification,9.34,17.17
+P006,Phone call,Phone call,3.09,17.05
+P006,Cognitively demanding question,Cognitively demanding question,15.23,19.71
+P006,Unrelated computer task,Unrelated computer task,30.22,22.36
+P006,Social media notification,Social media notification,21.91,15.33
+P006,Another person asking a question,Another person asking a question,7.88,13.79
+P006,No interruption,None - control,0.0,1.5
+P007,No interruption,None - control,0.0,1.5
+P007,Email notification,Email notification,9.24,4.88
+P007,Unrelated computer task,Unrelated computer task,29.49,24.29
+P007,Another person asking a question,Another person asking a question,15.73,14.52
+P007,Message notification,Message notification,6.78,6.7
+P007,Phone call,Phone call,30.92,16.77
+P007,Social media notification,Social media notification,4.49,1.92
+P007,Cognitively demanding question,Cognitively demanding question,21.47,12.83
+P008,Unrelated computer task,Unrelated computer task,24.51,24.85
+P008,Cognitively demanding question,Cognitively demanding question,30.68,26.91
+P008,No interruption,None - control,0.0,1.5
+P008,Phone call,Phone call,28.59,30.51
+P008,Message notification,Message notification,7.19,12.34
+P008,Social media notification,Social media notification,12.31,7.56
+P008,Another person asking a question,Another person asking a question,16.07,16.39
+P008,Email notification,Email notification,11.5,14.77
+P009,Unrelated computer task,Unrelated computer task,24.3,24.19
+P009,Another person asking a question,Another person asking a question,11.3,13.12
+P009,No interruption,None - control,0.0,1.5
+P009,Email notification,Email notification,12.22,14.34
+P009,Social media notification,Social media notification,16.89,10.14
+P009,Message notification,Message notification,5.95,9.06
+P009,Phone call,Phone call,9.64,19.37
+P009,Cognitively demanding question,Cognitively demanding question,3.6,7.44
+P010,Social media notification,Social media notification,15.06,11.09
+P010,Message notification,Message notification,4.58,7.36
+P010,No interruption,None - control,0.0,1.5
+P010,Phone call,Phone call,15.18,10.77
+P010,Cognitively demanding question,Cognitively demanding question,31.65,20.22
+P010,Another person asking a question,Another person asking a question,8.9,13.02
+P010,Unrelated computer task,Unrelated computer task,34.99,24.58
+P010,Email notification,Email notification,12.65,15.68
+P011,Email notification,Email notification,11.52,22.08
+P011,No interruption,None - control,0.0,1.5
+P011,Social media notification,Social media notification,13.81,14.65
+P011,Message notification,Message notification,4.55,7.49
+P011,Unrelated computer task,Unrelated computer task,24.5,22.43
+P011,Another person asking a question,Another person asking a question,13.75,11.81
+P011,Cognitively demanding question,Cognitively demanding question,4.56,18.75
+P011,Phone call,Phone call,21.0,22.57
+P012,Cognitively demanding question,Cognitively demanding question,25.19,20.42
+P012,Phone call,Phone call,24.19,26.52
+P012,Email notification,Email notification,13.24,12.03
+P012,Social media notification,Social media notification,12.43,12.86
+P012,Message notification,Message notification,10.78,7.5
+P012,No interruption,None - control,0.0,1.5
+P012,Another person asking a question,Another person asking a question,8.93,17.62
+P012,Unrelated computer task,Unrelated computer task,31.07,27.35
+P013,No interruption,None - control,0.0,1.5
+P013,Email notification,Email notification,10.43,17.32
+P013,Message notification,Message notification,12.21,18.38
+P013,Cognitively demanding question,Cognitively demanding question,29.02,32.54
+P013,Phone call,Phone call,15.04,23.64
+P013,Unrelated computer task,Unrelated computer task,39.44,48.21
+P013,Social media notification,Social media notification,11.6,7.68
+P013,Another person asking a question,Another person asking a question,17.66,20.17
+P014,Email notification,Email notification,10.15,12.81
+P014,Another person asking a question,Another person asking a question,13.52,10.5
+P014,Unrelated computer task,Unrelated computer task,23.25,18.73
+P014,Phone call,Phone call,15.5,1.41
+P014,Cognitively demanding question,Cognitively demanding question,28.2,16.17
+P014,No interruption,None - control,0.0,1.5
+P014,Message notification,Message notification,5.63,7.08
+P014,Social media notification,Social media notification,13.99,17.95
+P015,Social media notification,Social media notification,6.35,12.1
+P015,Cognitively demanding question,Cognitively demanding question,32.62,12.69
+P015,Unrelated computer task,Unrelated computer task,23.92,14.17
+P015,Phone call,Phone call,20.43,11.68
+P015,Email notification,Email notification,9.94,8.13
+P015,Another person asking a question,Another person asking a question,10.51,4.31
+P015,Message notification,Message notification,7.16,9.93
+P015,No interruption,None - control,0.0,1.5
+P016,Message notification,Message notification,10.55,9.45
+P016,Cognitively demanding question,Cognitively demanding question,32.09,15.41
+P016,Another person asking a question,Another person asking a question,17.81,9.92
+P016,Phone call,Phone call,23.0,16.43
+P016,Social media notification,Social media notification,10.96,1.0
+P016,Email notification,Email notification,10.7,4.86
+P016,Unrelated computer task,Unrelated computer task,37.71,26.59
+P016,No interruption,None - control,0.0,1.5
+P017,Another person asking a question,Another person asking a question,16.26,17.83
+P017,Email notification,Email notification,9.31,13.11
+P017,Unrelated computer task,Unrelated computer task,32.75,35.05
+P017,No interruption,None - control,0.0,1.5
+P017,Cognitively demanding question,Cognitively demanding question,13.6,14.64
+P017,Phone call,Phone call,32.15,28.02
+P017,Message notification,Message notification,4.93,11.54
+P017,Social media notification,Social media notification,16.12,22.72
+P018,Message notification,Message notification,7.02,7.05
+P018,Unrelated computer task,Unrelated computer task,27.33,24.96
+P018,No interruption,None - control,0.0,1.5
+P018,Another person asking a question,Another person asking a question,22.83,16.16
+P018,Phone call,Phone call,18.7,23.5
+P018,Cognitively demanding question,Cognitively demanding question,29.55,11.3
+P018,Social media notification,Social media notification,6.17,16.79
+P018,Email notification,Email notification,11.85,12.79
+P019,No interruption,None - control,0.0,1.5
+P019,Another person asking a question,Another person asking a question,17.31,14.61
+P019,Social media notification,Social media notification,7.75,11.25
+P019,Unrelated computer task,Unrelated computer task,20.34,17.58
+P019,Phone call,Phone call,20.93,13.07
+P019,Message notification,Message notification,11.17,18.61
+P019,Email notification,Email notification,10.38,14.57
+P019,Cognitively demanding question,Cognitively demanding question,25.98,26.24
+P020,Cognitively demanding question,Cognitively demanding question,16.68,26.46
+P020,Social media notification,Social media notification,15.72,16.04
+P020,No interruption,None - control,0.0,1.5
+P020,Message notification,Message notification,4.23,8.86
+P020,Another person asking a question,Another person asking a question,12.0,23.56
+P020,Email notification,Email notification,14.41,4.85
+P020,Phone call,Phone call,21.06,14.0
+P020,Unrelated computer task,Unrelated computer task,29.87,25.84
+P021,Another person asking a question,Another person asking a question,15.52,14.85
+P021,Phone call,Phone call,12.99,11.21
+P021,Cognitively demanding question,Cognitively demanding question,18.67,21.25
+P021,Unrelated computer task,Unrelated computer task,19.2,32.2
+P021,No interruption,None - control,0.0,1.5
+P021,Email notification,Email notification,12.16,17.49
+P021,Message notification,Message notification,6.26,15.16
+P021,Social media notification,Social media notification,17.7,26.83
+P022,Cognitively demanding question,Cognitively demanding question,24.17,30.8
+P022,Email notification,Email notification,10.92,16.25
+P022,Message notification,Message notification,7.11,17.2
+P022,Unrelated computer task,Unrelated computer task,42.05,43.31
+P022,Phone call,Phone call,16.88,16.81
+P022,Another person asking a question,Another person asking a question,28.15,13.98
+P022,Social media notification,Social media notification,5.94,10.3
+P022,No interruption,None - control,0.0,1.5
+P023,Phone call,Phone call,12.06,19.48
+P023,Message notification,Message notification,3.72,7.9
+P023,Email notification,Email notification,10.55,22.65
+P023,Unrelated computer task,Unrelated computer task,39.13,26.26
+P023,No interruption,None - control,0.0,1.5
+P023,Cognitively demanding question,Cognitively demanding question,23.49,32.33
+P023,Social media notification,Social media notification,16.56,14.57
+P023,Another person asking a question,Another person asking a question,17.03,17.26
+P024,Message notification,Message notification,12.73,3.68
+P024,Cognitively demanding question,Cognitively demanding question,33.01,29.94
+P024,Social media notification,Social media notification,13.69,18.84
+P024,No interruption,None - control,0.0,1.5
+P024,Another person asking a question,Another person asking a question,26.72,15.65
+P024,Email notification,Email notification,8.85,11.31
+P024,Unrelated computer task,Unrelated computer task,17.86,18.11
+P024,Phone call,Phone call,26.82,18.02
+P025,Cognitively demanding question,Cognitively demanding question,32.96,21.02
+P025,No interruption,None - control,0.0,1.5
+P025,Message notification,Message notification,9.9,11.02
+P025,Social media notification,Social media notification,20.42,16.32
+P025,Unrelated computer task,Unrelated computer task,32.52,20.38
+P025,Another person asking a question,Another person asking a question,18.21,11.94
+P025,Email notification,Email notification,13.95,21.63
+P025,Phone call,Phone call,9.94,7.98
+P026,Message notification,Message notification,7.91,8.88
+P026,Phone call,Phone call,22.33,20.92
+P026,Email notification,Email notification,10.06,11.19
+P026,Cognitively demanding question,Cognitively demanding question,19.65,15.8
+P026,Social media notification,Social media notification,17.01,13.83
+P026,Another person asking a question,Another person asking a question,22.4,19.18
+P026,No interruption,None - control,0.0,1.5
+P026,Unrelated computer task,Unrelated computer task,44.44,32.75
+P027,Another person asking a question,Another person asking a question,16.11,17.3
+P027,Cognitively demanding question,Cognitively demanding question,33.88,26.71
+P027,No interruption,None - control,0.0,1.5
+P027,Message notification,Message notification,8.8,10.22
+P027,Email notification,Email notification,11.19,11.21
+P027,Unrelated computer task,Unrelated computer task,24.63,28.04
+P027,Phone call,Phone call,15.7,11.1
+P027,Social media notification,Social media notification,15.8,21.52
+P028,Phone call,Phone call,10.87,24.49
+P028,No interruption,None - control,0.0,1.5
+P028,Cognitively demanding question,Cognitively demanding question,13.99,18.92
+P028,Email notification,Email notification,20.51,26.93
+P028,Message notification,Message notification,10.07,10.76
+P028,Another person asking a question,Another person asking a question,23.96,19.76
+P028,Unrelated computer task,Unrelated computer task,20.49,22.73
+P028,Social media notification,Social media notification,15.89,13.3
+P029,No interruption,None - control,0.0,1.5
+P029,Unrelated computer task,Unrelated computer task,22.41,35.73
+P029,Another person asking a question,Another person asking a question,20.98,18.29
+P029,Message notification,Message notification,9.14,11.02
+P029,Phone call,Phone call,22.41,22.99
+P029,Email notification,Email notification,11.36,17.83
+P029,Social media notification,Social media notification,16.72,20.3
+P029,Cognitively demanding question,Cognitively demanding question,28.08,23.29
+P030,Cognitively demanding question,Cognitively demanding question,35.78,37.01
+P030,Message notification,Message notification,4.63,16.72
+P030,Social media notification,Social media notification,13.35,27.91
+P030,No interruption,None - control,0.0,1.5
+P030,Phone call,Phone call,36.05,34.81
+P030,Another person asking a question,Another person asking a question,17.21,10.68
+P030,Unrelated computer task,Unrelated computer task,32.52,43.28
+P030,Email notification,Email notification,10.33,16.82
+P031,Email notification,Email notification,8.26,13.31
+P031,Phone call,Phone call,17.54,31.88
+P031,Message notification,Message notification,8.38,10.36
+P031,Unrelated computer task,Unrelated computer task,29.93,32.42
+P031,Cognitively demanding question,Cognitively demanding question,25.87,30.21
+P031,Social media notification,Social media notification,15.08,12.7
+P031,No interruption,None - control,0.0,1.5
+P031,Another person asking a question,Another person asking a question,17.94,11.63
+P032,Email notification,Email notification,14.25,13.47
+P032,Social media notification,Social media notification,19.15,17.33
+P032,Message notification,Message notification,6.69,7.88
+P032,Cognitively demanding question,Cognitively demanding question,15.2,24.33
+P032,Another person asking a question,Another person asking a question,20.6,14.99
+P032,Unrelated computer task,Unrelated computer task,24.91,18.39
+P032,No interruption,None - control,0.0,1.5
+P032,Phone call,Phone call,25.67,25.02
+P033,Email notification,Email notification,17.99,13.83
+P033,Unrelated computer task,Unrelated computer task,28.19,25.86
+P033,Social media notification,Social media notification,14.04,13.87
+P033,Message notification,Message notification,13.66,11.35
+P033,Phone call,Phone call,22.7,24.74
+P033,Cognitively demanding question,Cognitively demanding question,35.75,22.93
+P033,Another person asking a question,Another person asking a question,16.74,16.2
+P033,No interruption,None - control,0.0,1.5
+P034,Another person asking a question,Another person asking a question,20.23,15.26
+P034,Social media notification,Social media notification,9.88,12.38
+P034,Email notification,Email notification,18.37,13.26
+P034,Unrelated computer task,Unrelated computer task,41.55,37.25
+P034,Cognitively demanding question,Cognitively demanding question,30.67,22.07
+P034,Message notification,Message notification,5.8,21.44
+P034,No interruption,None - control,0.0,1.5
+P034,Phone call,Phone call,26.81,25.96
+P035,Phone call,Phone call,28.33,12.46
+P035,Unrelated computer task,Unrelated computer task,21.37,9.74
+P035,Cognitively demanding question,Cognitively demanding question,11.94,12.06
+P035,Email notification,Email notification,18.5,11.59
+P035,Another person asking a question,Another person asking a question,11.27,16.2
+P035,No interruption,None - control,0.0,1.5
+P035,Social media notification,Social media notification,19.86,16.17
+P035,Message notification,Message notification,4.59,5.91
+P036,Another person asking a question,Another person asking a question,19.75,12.11
+P036,Message notification,Message notification,13.72,18.44
+P036,No interruption,None - control,0.0,1.5
+P036,Phone call,Phone call,14.57,11.6
+P036,Cognitively demanding question,Cognitively demanding question,22.22,27.02
+P036,Unrelated computer task,Unrelated computer task,22.02,12.97
+P036,Social media notification,Social media notification,19.37,17.28
+P036,Email notification,Email notification,10.92,16.06
+P037,Phone call,Phone call,18.22,29.71
+P037,No interruption,None - control,0.0,1.5
+P037,Email notification,Email notification,12.35,15.77
+P037,Message notification,Message notification,3.6,17.81
+P037,Social media notification,Social media notification,16.86,22.27
+P037,Cognitively demanding question,Cognitively demanding question,24.18,31.91
+P037,Another person asking a question,Another person asking a question,22.05,26.44
+P037,Unrelated computer task,Unrelated computer task,27.24,45.78
+P038,Cognitively demanding question,Cognitively demanding question,20.29,16.86
+P038,Message notification,Message notification,8.83,10.04
+P038,Phone call,Phone call,19.18,17.94
+P038,Email notification,Email notification,12.14,22.55
+P038,No interruption,None - control,0.0,1.5
+P038,Another person asking a question,Another person asking a question,6.77,11.5
+P038,Unrelated computer task,Unrelated computer task,25.07,22.48
+P038,Social media notification,Social media notification,10.4,6.5
+P039,Unrelated computer task,Unrelated computer task,34.47,25.16
+P039,Cognitively demanding question,Cognitively demanding question,13.8,27.8
+P039,Social media notification,Social media notification,21.31,12.09
+P039,Message notification,Message notification,9.86,15.31
+P039,Email notification,Email notification,14.91,9.19
+P039,No interruption,None - control,0.0,1.5
+P039,Another person asking a question,Another person asking a question,3.0,14.3
+P039,Phone call,Phone call,26.5,12.61
+P040,Social media notification,Social media notification,17.93,18.36
+P040,No interruption,None - control,0.0,1.5
+P040,Message notification,Message notification,9.17,11.85
+P040,Email notification,Email notification,16.03,11.49
+P040,Cognitively demanding question,Cognitively demanding question,20.07,25.2
+P040,Phone call,Phone call,23.61,17.9
+P040,Unrelated computer task,Unrelated computer task,19.78,19.06
+P040,Another person asking a question,Another person asking a question,14.44,17.12
+P041,Message notification,Message notification,8.43,12.74
+P041,Phone call,Phone call,22.42,4.51
+P041,Cognitively demanding question,Cognitively demanding question,35.34,29.77
+P041,Email notification,Email notification,14.08,15.62
+P041,Social media notification,Social media notification,10.03,5.18
+P041,Another person asking a question,Another person asking a question,19.22,22.55
+P041,No interruption,None - control,0.0,1.5
+P041,Unrelated computer task,Unrelated computer task,24.9,26.07
+P042,Cognitively demanding question,Cognitively demanding question,23.41,26.22
+P042,No interruption,None - control,0.0,1.5
+P042,Social media notification,Social media notification,15.41,21.5
+P042,Unrelated computer task,Unrelated computer task,15.7,21.6
+P042,Phone call,Phone call,15.9,15.75
+P042,Email notification,Email notification,15.62,16.75
+P042,Message notification,Message notification,8.44,10.25
+P042,Another person asking a question,Another person asking a question,23.79,26.53
+P043,Another person asking a question,Another person asking a question,17.77,21.58
+P043,Email notification,Email notification,15.07,17.7
+P043,Message notification,Message notification,7.54,22.18
+P043,Unrelated computer task,Unrelated computer task,35.27,18.76
+P043,No interruption,None - control,0.0,1.5
+P043,Cognitively demanding question,Cognitively demanding question,24.87,28.61
+P043,Phone call,Phone call,14.24,17.84
+P043,Social media notification,Social media notification,20.58,18.76
+P044,Phone call,Phone call,21.01,18.56
+P044,Another person asking a question,Another person asking a question,13.82,28.65
+P044,Cognitively demanding question,Cognitively demanding question,27.2,18.6
+P044,Social media notification,Social media notification,20.8,21.01
+P044,Message notification,Message notification,11.12,16.05
+P044,Email notification,Email notification,12.16,15.66
+P044,No interruption,None - control,0.0,1.5
+P044,Unrelated computer task,Unrelated computer task,23.31,24.01
+P045,Another person asking a question,Another person asking a question,10.24,13.49
+P045,No interruption,None - control,0.0,1.5
+P045,Email notification,Email notification,18.14,15.46
+P045,Social media notification,Social media notification,13.06,5.11
+P045,Unrelated computer task,Unrelated computer task,34.51,20.18
+P045,Message notification,Message notification,5.96,7.38
+P045,Phone call,Phone call,26.0,21.08
+P045,Cognitively demanding question,Cognitively demanding question,25.13,29.53
+P046,Another person asking a question,Another person asking a question,18.72,13.12
+P046,Email notification,Email notification,16.6,4.36
+P046,Phone call,Phone call,12.87,13.53
+P046,Message notification,Message notification,6.38,15.43
+P046,Social media notification,Social media notification,20.32,21.8
+P046,No interruption,None - control,0.0,1.5
+P046,Unrelated computer task,Unrelated computer task,28.13,16.64
+P046,Cognitively demanding question,Cognitively demanding question,20.52,21.04
+P047,Message notification,Message notification,8.91,23.14
+P047,Another person asking a question,Another person asking a question,21.04,27.3
+P047,Cognitively demanding question,Cognitively demanding question,13.46,9.06
+P047,Social media notification,Social media notification,13.71,20.33
+P047,Unrelated computer task,Unrelated computer task,30.26,27.45
+P047,Email notification,Email notification,12.97,16.62
+P047,Phone call,Phone call,29.63,40.8
+P047,No interruption,None - control,0.0,1.5
+P048,Another person asking a question,Another person asking a question,13.68,17.87
+P048,Social media notification,Social media notification,17.59,25.47
+P048,Email notification,Email notification,8.9,7.54
+P048,Cognitively demanding question,Cognitively demanding question,25.01,27.43
+P048,Message notification,Message notification,6.32,7.93
+P048,No interruption,None - control,0.0,1.5
+P048,Unrelated computer task,Unrelated computer task,16.42,20.45
+P048,Phone call,Phone call,26.9,35.71
+P049,Message notification,Message notification,8.61,6.79
+P049,Social media notification,Social media notification,14.08,14.93
+P049,Cognitively demanding question,Cognitively demanding question,23.91,17.69
+P049,Another person asking a question,Another person asking a question,31.92,17.88
+P049,Unrelated computer task,Unrelated computer task,22.42,19.45
+P049,No interruption,None - control,0.0,1.5
+P049,Phone call,Phone call,12.11,8.61
+P049,Email notification,Email notification,11.87,8.73
+P050,Unrelated computer task,Unrelated computer task,26.41,9.77
+P050,Cognitively demanding question,Cognitively demanding question,22.96,39.58
+P050,Phone call,Phone call,16.71,22.85
+P050,Another person asking a question,Another person asking a question,18.83,22.29
+P050,Email notification,Email notification,17.07,28.19
+P050,No interruption,None - control,0.0,1.5
+P050,Social media notification,Social media notification,15.6,17.29
+P050,Message notification,Message notification,9.5,14.26
+P051,Cognitively demanding question,Cognitively demanding question,24.96,13.04
+P051,Email notification,Email notification,9.89,4.95
+P051,Unrelated computer task,Unrelated computer task,31.9,27.27
+P051,Phone call,Phone call,12.12,13.47
+P051,Another person asking a question,Another person asking a question,14.73,11.94
+P051,Social media notification,Social media notification,17.22,11.94
+P051,Message notification,Message notification,4.58,8.84
+P051,No interruption,None - control,0.0,1.5
+P052,Email notification,Email notification,18.36,22.02
+P052,Social media notification,Social media notification,16.76,18.54
+P052,Message notification,Message notification,10.47,18.31
+P052,Cognitively demanding question,Cognitively demanding question,28.94,28.28
+P052,Another person asking a question,Another person asking a question,17.07,10.14
+P052,Phone call,Phone call,35.01,28.96
+P052,No interruption,None - control,0.0,1.5
+P052,Unrelated computer task,Unrelated computer task,11.59,21.86
+P053,Phone call,Phone call,31.21,21.37
+P053,Cognitively demanding question,Cognitively demanding question,20.84,23.5
+P053,No interruption,None - control,0.0,1.5
+P053,Email notification,Email notification,15.24,16.82
+P053,Another person asking a question,Another person asking a question,22.26,18.21
+P053,Social media notification,Social media notification,8.3,23.93
+P053,Message notification,Message notification,9.56,14.81
+P053,Unrelated computer task,Unrelated computer task,40.91,25.25
+P054,Unrelated computer task,Unrelated computer task,17.08,33.95
+P054,No interruption,None - control,0.0,1.5
+P054,Message notification,Message notification,7.68,22.99
+P054,Email notification,Email notification,15.81,10.82
+P054,Phone call,Phone call,26.9,26.21
+P054,Social media notification,Social media notification,24.58,29.96
+P054,Cognitively demanding question,Cognitively demanding question,26.62,27.61
+P054,Another person asking a question,Another person asking a question,16.11,6.04
+P055,Unrelated computer task,Unrelated computer task,17.53,31.0
+P055,Social media notification,Social media notification,15.34,27.26
+P055,No interruption,None - control,0.0,1.5
+P055,Email notification,Email notification,14.19,17.08
+P055,Message notification,Message notification,6.02,10.93
+P055,Cognitively demanding question,Cognitively demanding question,27.55,26.15
+P055,Another person asking a question,Another person asking a question,23.02,22.91
+P055,Phone call,Phone call,16.23,7.72
+P056,Email notification,Email notification,19.51,11.67
+P056,Another person asking a question,Another person asking a question,18.99,14.61
+P056,Unrelated computer task,Unrelated computer task,20.79,19.87
+P056,Cognitively demanding question,Cognitively demanding question,42.95,27.7
+P056,Message notification,Message notification,6.65,19.58
+P056,Phone call,Phone call,20.12,26.69
+P056,Social media notification,Social media notification,10.39,10.9
+P056,No interruption,None - control,0.0,1.5
+P057,No interruption,None - control,0.0,1.5
+P057,Email notification,Email notification,4.37,9.34
+P057,Phone call,Phone call,24.77,11.7
+P057,Unrelated computer task,Unrelated computer task,23.97,28.06
+P057,Social media notification,Social media notification,27.89,6.63
+P057,Another person asking a question,Another person asking a question,26.95,23.32
+P057,Cognitively demanding question,Cognitively demanding question,18.23,17.3
+P057,Message notification,Message notification,9.96,13.46
+P058,Email notification,Email notification,15.66,10.52
+P058,Social media notification,Social media notification,14.14,22.7
+P058,Phone call,Phone call,28.0,25.9
+P058,No interruption,None - control,0.0,1.5
+P058,Message notification,Message notification,13.02,2.62
+P058,Another person asking a question,Another person asking a question,25.8,39.03
+P058,Unrelated computer task,Unrelated computer task,26.79,40.75
+P058,Cognitively demanding question,Cognitively demanding question,23.61,22.87
+P059,Phone call,Phone call,16.41,3.9
+P059,Another person asking a question,Another person asking a question,32.16,13.83
+P059,Email notification,Email notification,10.12,3.29
+P059,Unrelated computer task,Unrelated computer task,21.15,9.47
+P059,Social media notification,Social media notification,17.21,8.69
+P059,Cognitively demanding question,Cognitively demanding question,25.86,16.66
+P059,Message notification,Message notification,5.06,5.1
+P059,No interruption,None - control,0.0,1.5
+P060,Phone call,Phone call,13.53,9.96
+P060,No interruption,None - control,0.0,1.5
+P060,Message notification,Message notification,8.28,19.71
+P060,Another person asking a question,Another person asking a question,22.4,24.84
+P060,Email notification,Email notification,10.62,9.7
+P060,Unrelated computer task,Unrelated computer task,35.53,21.72
+P060,Cognitively demanding question,Cognitively demanding question,25.12,29.35
+P060,Social media notification,Social media notification,11.54,12.67
+P061,Cognitively demanding question,Cognitively demanding question,20.22,17.4
+P061,Unrelated computer task,Unrelated computer task,27.8,16.42
+P061,Another person asking a question,Another person asking a question,27.0,14.67
+P061,Message notification,Message notification,7.23,6.69
+P061,Email notification,Email notification,14.88,11.03
+P061,No interruption,None - control,0.0,1.5
+P061,Social media notification,Social media notification,15.92,11.11
+P061,Phone call,Phone call,23.44,10.43
+P062,Message notification,Message notification,3.0,1.0
+P062,Unrelated computer task,Unrelated computer task,39.51,38.57
+P062,Cognitively demanding question,Cognitively demanding question,16.28,11.79
+P062,No interruption,None - control,0.0,1.5
+P062,Another person asking a question,Another person asking a question,12.96,10.83
+P062,Phone call,Phone call,14.32,20.66
+P062,Social media notification,Social media notification,20.69,13.73
+P062,Email notification,Email notification,13.59,1.08
+P063,Social media notification,Social media notification,17.09,21.85
+P063,Email notification,Email notification,15.31,1.0
+P063,Message notification,Message notification,8.42,1.66
+P063,No interruption,None - control,0.0,1.5
+P063,Unrelated computer task,Unrelated computer task,28.43,39.95
+P063,Phone call,Phone call,19.72,20.15
+P063,Another person asking a question,Another person asking a question,9.02,9.81
+P063,Cognitively demanding question,Cognitively demanding question,27.36,32.04
+P064,Message notification,Message notification,6.27,7.3
+P064,Email notification,Email notification,13.79,5.72
+P064,No interruption,None - control,0.0,1.5
+P064,Social media notification,Social media notification,15.49,9.85
+P064,Unrelated computer task,Unrelated computer task,32.97,14.13
+P064,Cognitively demanding question,Cognitively demanding question,31.0,16.17
+P064,Phone call,Phone call,23.41,15.64
+P064,Another person asking a question,Another person asking a question,15.75,6.06
+P065,Phone call,Phone call,19.53,16.28
+P065,Another person asking a question,Another person asking a question,12.4,22.66
+P065,Unrelated computer task,Unrelated computer task,15.91,14.96
+P065,Social media notification,Social media notification,9.15,10.77
+P065,No interruption,None - control,0.0,1.5
+P065,Email notification,Email notification,10.26,13.12
+P065,Message notification,Message notification,10.45,13.57
+P065,Cognitively demanding question,Cognitively demanding question,31.37,31.69
+P066,Message notification,Message notification,5.49,5.23
+P066,Unrelated computer task,Unrelated computer task,25.52,21.76
+P066,Email notification,Email notification,8.47,8.36
+P066,Cognitively demanding question,Cognitively demanding question,22.13,23.36
+P066,No interruption,None - control,0.0,1.5
+P066,Another person asking a question,Another person asking a question,18.72,12.66
+P066,Social media notification,Social media notification,6.54,12.23
+P066,Phone call,Phone call,9.45,1.0
+P067,Unrelated computer task,Unrelated computer task,36.64,22.66
+P067,Message notification,Message notification,9.0,7.71
+P067,No interruption,None - control,0.0,1.5
+P067,Cognitively demanding question,Cognitively demanding question,27.9,20.81
+P067,Phone call,Phone call,23.48,26.55
+P067,Another person asking a question,Another person asking a question,17.79,19.97
+P067,Email notification,Email notification,17.21,19.48
+P067,Social media notification,Social media notification,9.66,2.29
+P068,Social media notification,Social media notification,15.97,1.0
+P068,Cognitively demanding question,Cognitively demanding question,15.34,17.32
+P068,No interruption,None - control,0.0,1.5
+P068,Phone call,Phone call,16.73,16.94
+P068,Email notification,Email notification,12.12,11.67
+P068,Another person asking a question,Another person asking a question,19.96,13.97
+P068,Message notification,Message notification,6.59,22.58
+P068,Unrelated computer task,Unrelated computer task,23.56,22.09
+P069,Social media notification,Social media notification,20.0,17.44
+P069,Phone call,Phone call,19.01,24.25
+P069,Email notification,Email notification,18.6,42.58
+P069,Message notification,Message notification,11.12,17.3
+P069,Another person asking a question,Another person asking a question,21.52,33.29
+P069,Unrelated computer task,Unrelated computer task,24.36,22.22
+P069,No interruption,None - control,0.0,1.5
+P069,Cognitively demanding question,Cognitively demanding question,15.91,30.9
+P070,Social media notification,Social media notification,15.46,14.35
+P070,Cognitively demanding question,Cognitively demanding question,28.95,19.69
+P070,Message notification,Message notification,9.34,11.84
+P070,No interruption,None - control,0.0,1.5
+P070,Another person asking a question,Another person asking a question,19.65,13.81
+P070,Unrelated computer task,Unrelated computer task,39.05,24.45
+P070,Phone call,Phone call,24.34,11.4
+P070,Email notification,Email notification,11.57,9.85
+P071,Social media notification,Social media notification,18.45,25.18
+P071,Phone call,Phone call,19.92,31.17
+P071,Message notification,Message notification,12.67,24.47
+P071,Cognitively demanding question,Cognitively demanding question,27.91,36.62
+P071,Unrelated computer task,Unrelated computer task,19.81,32.37
+P071,Another person asking a question,Another person asking a question,23.1,22.3
+P071,Email notification,Email notification,13.84,25.74
+P071,No interruption,None - control,0.0,1.5
+P072,No interruption,None - control,0.0,1.5
+P072,Cognitively demanding question,Cognitively demanding question,21.68,27.99
+P072,Message notification,Message notification,12.15,11.29
+P072,Social media notification,Social media notification,19.07,15.34
+P072,Phone call,Phone call,30.74,20.5
+P072,Unrelated computer task,Unrelated computer task,35.26,15.77
+P072,Email notification,Email notification,20.83,20.24
+P072,Another person asking a question,Another person asking a question,23.41,19.53
+P073,Social media notification,Social media notification,21.66,16.9
+P073,Cognitively demanding question,Cognitively demanding question,8.12,18.65
+P073,No interruption,None - control,0.0,1.5
+P073,Phone call,Phone call,15.73,25.23
+P073,Email notification,Email notification,16.24,14.39
+P073,Unrelated computer task,Unrelated computer task,5.4,23.17
+P073,Another person asking a question,Another person asking a question,13.34,26.9
+P073,Message notification,Message notification,7.08,1.0
+P074,Social media notification,Social media notification,20.78,16.56
+P074,Phone call,Phone call,20.59,13.77
+P074,Cognitively demanding question,Cognitively demanding question,23.82,14.84
+P074,Message notification,Message notification,10.39,11.45
+P074,Email notification,Email notification,11.7,14.13
+P074,Unrelated computer task,Unrelated computer task,32.11,28.97
+P074,No interruption,None - control,0.0,1.5
+P074,Another person asking a question,Another person asking a question,29.05,14.41
+P075,Phone call,Phone call,18.56,17.32
+P075,Another person asking a question,Another person asking a question,18.91,16.87
+P075,Cognitively demanding question,Cognitively demanding question,23.65,15.42
+P075,Email notification,Email notification,15.93,14.27
+P075,Unrelated computer task,Unrelated computer task,17.01,24.2
+P075,No interruption,None - control,0.0,1.5
+P075,Message notification,Message notification,9.54,5.17
+P075,Social media notification,Social media notification,21.99,13.42
+P076,Social media notification,Social media notification,13.86,3.93
+P076,Cognitively demanding question,Cognitively demanding question,31.06,14.65
+P076,Phone call,Phone call,25.61,10.23
+P076,Email notification,Email notification,11.01,5.43
+P076,No interruption,None - control,0.0,1.5
+P076,Unrelated computer task,Unrelated computer task,33.19,20.54
+P076,Another person asking a question,Another person asking a question,25.28,10.5
+P076,Message notification,Message notification,11.05,8.71
+P077,Unrelated computer task,Unrelated computer task,42.73,39.24
+P077,Social media notification,Social media notification,18.93,32.87
+P077,Email notification,Email notification,16.88,11.59
+P077,Another person asking a question,Another person asking a question,4.68,6.24
+P077,Message notification,Message notification,6.26,14.29
+P077,Phone call,Phone call,28.48,25.28
+P077,Cognitively demanding question,Cognitively demanding question,23.85,39.3
+P077,No interruption,None - control,0.0,1.5
+P078,Email notification,Email notification,15.78,15.16
+P078,Message notification,Message notification,11.97,19.94
+P078,Phone call,Phone call,35.0,26.45
+P078,Social media notification,Social media notification,15.6,20.41
+P078,No interruption,None - control,0.0,1.5
+P078,Cognitively demanding question,Cognitively demanding question,19.16,32.94
+P078,Unrelated computer task,Unrelated computer task,36.45,25.14
+P078,Another person asking a question,Another person asking a question,18.38,24.06
+P079,No interruption,None - control,0.0,1.5
+P079,Email notification,Email notification,3.0,10.08
+P079,Another person asking a question,Another person asking a question,17.13,19.21
+P079,Phone call,Phone call,31.61,38.5
+P079,Cognitively demanding question,Cognitively demanding question,26.33,23.27
+P079,Social media notification,Social media notification,15.66,16.69
+P079,Unrelated computer task,Unrelated computer task,30.29,21.97
+P079,Message notification,Message notification,7.09,2.22
+P080,Message notification,Message notification,4.07,10.34
+P080,Cognitively demanding question,Cognitively demanding question,23.95,35.46
+P080,Email notification,Email notification,9.12,22.78
+P080,Unrelated computer task,Unrelated computer task,21.94,31.16
+P080,Social media notification,Social media notification,8.54,18.86
+P080,Phone call,Phone call,15.79,16.98
+P080,Another person asking a question,Another person asking a question,10.79,20.55
+P080,No interruption,None - control,0.0,1.5
+P081,Cognitively demanding question,Cognitively demanding question,28.36,23.49
+P081,Email notification,Email notification,7.14,13.34
+P081,No interruption,None - control,0.0,1.5
+P081,Unrelated computer task,Unrelated computer task,36.2,21.42
+P081,Another person asking a question,Another person asking a question,23.36,23.27
+P081,Message notification,Message notification,6.56,10.8
+P081,Social media notification,Social media notification,15.66,31.11
+P081,Phone call,Phone call,12.3,12.95
+P082,No interruption,None - control,0.0,1.5
+P082,Cognitively demanding question,Cognitively demanding question,37.06,24.98
+P082,Message notification,Message notification,11.6,10.16
+P082,Social media notification,Social media notification,15.57,7.9
+P082,Email notification,Email notification,15.52,19.3
+P082,Another person asking a question,Another person asking a question,21.35,9.17
+P082,Phone call,Phone call,21.94,23.02
+P082,Unrelated computer task,Unrelated computer task,20.15,6.77
+P083,No interruption,None - control,0.0,1.5
+P083,Phone call,Phone call,14.34,16.42
+P083,Social media notification,Social media notification,8.76,16.93
+P083,Cognitively demanding question,Cognitively demanding question,18.92,39.56
+P083,Another person asking a question,Another person asking a question,18.62,32.12
+P083,Unrelated computer task,Unrelated computer task,29.6,33.2
+P083,Email notification,Email notification,9.75,6.93
+P083,Message notification,Message notification,8.92,12.67
+P084,Phone call,Phone call,18.19,19.76
+P084,No interruption,None - control,0.0,1.5
+P084,Message notification,Message notification,8.38,27.57
+P084,Email notification,Email notification,13.46,12.0
+P084,Unrelated computer task,Unrelated computer task,23.67,37.12
+P084,Another person asking a question,Another person asking a question,16.13,14.47
+P084,Social media notification,Social media notification,15.72,27.33
+P084,Cognitively demanding question,Cognitively demanding question,31.89,29.39
+P085,Social media notification,Social media notification,19.6,19.2
+P085,Email notification,Email notification,16.26,22.34
+P085,Phone call,Phone call,18.41,21.79
+P085,Unrelated computer task,Unrelated computer task,24.04,34.16
+P085,Cognitively demanding question,Cognitively demanding question,34.96,33.54
+P085,Another person asking a question,Another person asking a question,13.68,19.8
+P085,Message notification,Message notification,8.52,18.38
+P085,No interruption,None - control,0.0,1.5
+P086,Email notification,Email notification,8.41,9.4
+P086,Another person asking a question,Another person asking a question,24.7,22.23
+P086,No interruption,None - control,0.0,1.5
+P086,Message notification,Message notification,9.17,10.18
+P086,Phone call,Phone call,13.87,6.71
+P086,Cognitively demanding question,Cognitively demanding question,26.41,12.84
+P086,Unrelated computer task,Unrelated computer task,37.35,27.31
+P086,Social media notification,Social media notification,7.46,9.85
+P087,Another person asking a question,Another person asking a question,7.82,14.4
+P087,No interruption,None - control,0.0,1.5
+P087,Email notification,Email notification,12.19,22.43
+P087,Phone call,Phone call,17.16,16.66
+P087,Cognitively demanding question,Cognitively demanding question,12.4,14.49
+P087,Unrelated computer task,Unrelated computer task,29.68,21.79
+P087,Message notification,Message notification,8.16,11.73
+P087,Social media notification,Social media notification,7.39,18.6
+P088,Email notification,Email notification,11.36,13.11
+P088,No interruption,None - control,0.0,1.5
+P088,Message notification,Message notification,10.36,15.8
+P088,Social media notification,Social media notification,11.52,10.91
+P088,Phone call,Phone call,25.99,18.84
+P088,Another person asking a question,Another person asking a question,23.63,15.95
+P088,Cognitively demanding question,Cognitively demanding question,24.23,29.92
+P088,Unrelated computer task,Unrelated computer task,20.62,14.84
+P089,Social media notification,Social media notification,13.27,17.27
+P089,Unrelated computer task,Unrelated computer task,24.49,43.02
+P089,Phone call,Phone call,12.28,33.94
+P089,No interruption,None - control,0.0,1.5
+P089,Message notification,Message notification,9.22,14.58
+P089,Cognitively demanding question,Cognitively demanding question,30.36,27.71
+P089,Email notification,Email notification,10.05,7.54
+P089,Another person asking a question,Another person asking a question,12.06,14.48
+P090,Phone call,Phone call,19.55,19.75
+P090,Unrelated computer task,Unrelated computer task,29.66,27.49
+P090,Email notification,Email notification,19.43,24.36
+P090,No interruption,None - control,0.0,1.5
+P090,Social media notification,Social media notification,24.38,20.81
+P090,Another person asking a question,Another person asking a question,11.84,21.7
+P090,Cognitively demanding question,Cognitively demanding question,22.02,20.24
+P090,Message notification,Message notification,6.13,23.69
+P091,Another person asking a question,Another person asking a question,28.29,17.64
+P091,Phone call,Phone call,16.41,15.11
+P091,No interruption,None - control,0.0,1.5
+P091,Email notification,Email notification,4.67,6.78
+P091,Cognitively demanding question,Cognitively demanding question,19.36,19.22
+P091,Social media notification,Social media notification,11.44,14.3
+P091,Unrelated computer task,Unrelated computer task,32.12,32.31
+P091,Message notification,Message notification,7.98,1.0
+P092,Phone call,Phone call,15.64,15.75
+P092,Email notification,Email notification,9.66,13.85
+P092,Social media notification,Social media notification,16.9,39.04
+P092,Another person asking a question,Another person asking a question,20.24,13.89
+P092,Cognitively demanding question,Cognitively demanding question,23.86,33.34
+P092,No interruption,None - control,0.0,1.5
+P092,Unrelated computer task,Unrelated computer task,32.76,44.46
+P092,Message notification,Message notification,9.67,22.51
+P093,No interruption,None - control,0.0,1.5
+P093,Message notification,Message notification,13.19,20.04
+P093,Unrelated computer task,Unrelated computer task,33.68,19.38
+P093,Phone call,Phone call,20.15,22.52
+P093,Email notification,Email notification,5.32,6.92
+P093,Cognitively demanding question,Cognitively demanding question,25.61,19.67
+P093,Social media notification,Social media notification,11.42,12.45
+P093,Another person asking a question,Another person asking a question,18.27,21.83
+P094,Unrelated computer task,Unrelated computer task,35.58,34.04
+P094,Message notification,Message notification,8.03,16.87
+P094,Phone call,Phone call,31.86,34.83
+P094,Another person asking a question,Another person asking a question,11.56,13.12
+P094,No interruption,None - control,0.0,1.5
+P094,Cognitively demanding question,Cognitively demanding question,34.56,28.19
+P094,Email notification,Email notification,13.48,20.9
+P094,Social media notification,Social media notification,10.94,8.78
+P095,Cognitively demanding question,Cognitively demanding question,15.88,13.18
+P095,No interruption,None - control,0.0,1.5
+P095,Message notification,Message notification,6.16,7.3
+P095,Another person asking a question,Another person asking a question,22.5,11.12
+P095,Phone call,Phone call,25.61,15.44
+P095,Social media notification,Social media notification,14.75,17.48
+P095,Unrelated computer task,Unrelated computer task,19.56,24.73
+P095,Email notification,Email notification,10.14,15.82
+P096,Phone call,Phone call,17.75,6.42
+P096,Unrelated computer task,Unrelated computer task,27.49,19.75
+P096,Social media notification,Social media notification,18.93,19.44
+P096,Cognitively demanding question,Cognitively demanding question,33.71,23.02
+P096,Email notification,Email notification,15.81,24.73
+P096,Message notification,Message notification,12.43,12.31
+P096,No interruption,None - control,0.0,1.5
+P096,Another person asking a question,Another person asking a question,13.61,11.89
+P097,Cognitively demanding question,Cognitively demanding question,16.13,17.84
+P097,Message notification,Message notification,6.75,23.19
+P097,Social media notification,Social media notification,19.15,8.22
+P097,Unrelated computer task,Unrelated computer task,26.3,24.43
+P097,Email notification,Email notification,11.56,17.81
+P097,No interruption,None - control,0.0,1.5
+P097,Another person asking a question,Another person asking a question,25.67,27.4
+P097,Phone call,Phone call,13.24,10.74
+P098,Cognitively demanding question,Cognitively demanding question,26.61,16.42
+P098,Social media notification,Social media notification,19.85,17.77
+P098,Phone call,Phone call,10.69,15.57
+P098,No interruption,None - control,0.0,1.5
+P098,Unrelated computer task,Unrelated computer task,32.65,16.56
+P098,Message notification,Message notification,8.64,11.41
+P098,Email notification,Email notification,9.99,7.05
+P098,Another person asking a question,Another person asking a question,17.02,21.08
+P099,Message notification,Message notification,6.22,1.0
+P099,Social media notification,Social media notification,17.79,7.98
+P099,Email notification,Email notification,13.43,16.75
+P099,Cognitively demanding question,Cognitively demanding question,22.27,31.93
+P099,Phone call,Phone call,22.87,25.04
+P099,Unrelated computer task,Unrelated computer task,16.29,29.65
+P099,Another person asking a question,Another person asking a question,23.69,20.44
+P099,No interruption,None - control,0.0,1.5
+P100,No interruption,None - control,0.0,1.5
+P100,Another person asking a question,Another person asking a question,20.21,20.5
+P100,Unrelated computer task,Unrelated computer task,30.48,34.52
+P100,Phone call,Phone call,22.77,15.56
+P100,Email notification,Email notification,3.02,8.26
+P100,Social media notification,Social media notification,18.91,15.66
+P100,Message notification,Message notification,9.68,39.0
+P100,Cognitively demanding question,Cognitively demanding question,28.4,37.57
+P101,No interruption,None - control,0.0,1.5
+P101,Email notification,Email notification,19.03,19.93
+P101,Social media notification,Social media notification,16.31,19.59
+P101,Unrelated computer task,Unrelated computer task,31.02,41.3
+P101,Phone call,Phone call,13.27,24.2
+P101,Cognitively demanding question,Cognitively demanding question,22.57,30.2
+P101,Message notification,Message notification,3.33,14.97
+P101,Another person asking a question,Another person asking a question,13.16,20.16
+P102,Social media notification,Social media notification,11.75,15.86
+P102,Message notification,Message notification,7.16,8.25
+P102,No interruption,None - control,0.0,1.5
+P102,Another person asking a question,Another person asking a question,20.13,26.67
+P102,Cognitively demanding question,Cognitively demanding question,32.63,30.61
+P102,Email notification,Email notification,11.94,25.33
+P102,Unrelated computer task,Unrelated computer task,21.06,31.06
+P102,Phone call,Phone call,12.64,22.0
+P103,No interruption,None - control,0.0,1.5
+P103,Email notification,Email notification,16.9,18.37
+P103,Social media notification,Social media notification,11.81,13.67
+P103,Cognitively demanding question,Cognitively demanding question,27.93,28.33
+P103,Unrelated computer task,Unrelated computer task,30.31,25.99
+P103,Message notification,Message notification,8.85,16.28
+P103,Phone call,Phone call,17.26,16.52
+P103,Another person asking a question,Another person asking a question,5.37,14.61
+P104,Social media notification,Social media notification,14.68,1.0
+P104,No interruption,None - control,0.0,1.5
+P104,Message notification,Message notification,7.3,16.87
+P104,Cognitively demanding question,Cognitively demanding question,11.11,8.34
+P104,Another person asking a question,Another person asking a question,21.43,14.68
+P104,Email notification,Email notification,12.94,11.29
+P104,Unrelated computer task,Unrelated computer task,24.03,21.94
+P104,Phone call,Phone call,29.03,28.73
+P105,Social media notification,Social media notification,19.7,8.27
+P105,Email notification,Email notification,9.14,5.68
+P105,No interruption,None - control,0.0,1.5
+P105,Another person asking a question,Another person asking a question,4.23,7.49
+P105,Phone call,Phone call,17.62,6.1
+P105,Cognitively demanding question,Cognitively demanding question,24.34,18.43
+P105,Unrelated computer task,Unrelated computer task,18.86,19.47
+P105,Message notification,Message notification,7.41,2.17
+P106,Social media notification,Social media notification,8.06,10.88
+P106,Email notification,Email notification,13.45,10.22
+P106,Phone call,Phone call,28.6,34.58
+P106,Cognitively demanding question,Cognitively demanding question,25.72,31.76
+P106,Another person asking a question,Another person asking a question,25.82,27.0
+P106,Message notification,Message notification,9.55,25.92
+P106,No interruption,None - control,0.0,1.5
+P106,Unrelated computer task,Unrelated computer task,36.36,32.39
+P107,Cognitively demanding question,Cognitively demanding question,17.76,16.67
+P107,Social media notification,Social media notification,19.82,11.76
+P107,No interruption,None - control,0.0,1.5
+P107,Unrelated computer task,Unrelated computer task,29.37,31.08
+P107,Another person asking a question,Another person asking a question,19.4,15.03
+P107,Email notification,Email notification,11.71,9.46
+P107,Message notification,Message notification,8.9,22.71
+P107,Phone call,Phone call,14.35,15.93
+P108,Cognitively demanding question,Cognitively demanding question,18.29,18.84
+P108,Phone call,Phone call,14.42,16.61
+P108,Message notification,Message notification,8.18,18.09
+P108,Unrelated computer task,Unrelated computer task,16.05,21.97
+P108,No interruption,None - control,0.0,1.5
+P108,Email notification,Email notification,10.49,10.15
+P108,Another person asking a question,Another person asking a question,28.09,23.22
+P108,Social media notification,Social media notification,6.82,10.39
+P109,Another person asking a question,Another person asking a question,14.44,21.75
+P109,Email notification,Email notification,10.69,14.28
+P109,Cognitively demanding question,Cognitively demanding question,20.5,36.75
+P109,Social media notification,Social media notification,11.45,9.04
+P109,Unrelated computer task,Unrelated computer task,26.17,21.52
+P109,Phone call,Phone call,24.69,34.38
+P109,Message notification,Message notification,8.37,13.0
+P109,No interruption,None - control,0.0,1.5
+P110,Unrelated computer task,Unrelated computer task,48.15,41.89
+P110,Email notification,Email notification,12.45,13.61
+P110,Message notification,Message notification,11.5,22.29
+P110,Another person asking a question,Another person asking a question,12.47,25.89
+P110,Cognitively demanding question,Cognitively demanding question,12.02,24.15
+P110,No interruption,None - control,0.0,1.5
+P110,Phone call,Phone call,18.94,40.09
+P110,Social media notification,Social media notification,19.92,17.99
+P111,Unrelated computer task,Unrelated computer task,37.02,26.42
+P111,Another person asking a question,Another person asking a question,28.76,35.61
+P111,Cognitively demanding question,Cognitively demanding question,10.54,18.39
+P111,Social media notification,Social media notification,23.72,18.41
+P111,Message notification,Message notification,3.81,2.33
+P111,Email notification,Email notification,16.04,7.87
+P111,Phone call,Phone call,27.91,28.53
+P111,No interruption,None - control,0.0,1.5
+P112,No interruption,None - control,0.0,1.5
+P112,Cognitively demanding question,Cognitively demanding question,12.59,12.9
+P112,Message notification,Message notification,7.55,17.63
+P112,Phone call,Phone call,23.74,19.22
+P112,Another person asking a question,Another person asking a question,17.87,17.45
+P112,Unrelated computer task,Unrelated computer task,21.73,17.4
+P112,Email notification,Email notification,17.52,28.91
+P112,Social media notification,Social media notification,18.15,10.91
+P113,Unrelated computer task,Unrelated computer task,16.87,12.27
+P113,Another person asking a question,Another person asking a question,18.82,9.37
+P113,Cognitively demanding question,Cognitively demanding question,17.64,18.49
+P113,Email notification,Email notification,12.41,9.24
+P113,Social media notification,Social media notification,6.62,8.44
+P113,Phone call,Phone call,15.87,15.09
+P113,Message notification,Message notification,9.24,21.7
+P113,No interruption,None - control,0.0,1.5
+P114,Cognitively demanding question,Cognitively demanding question,32.24,32.67
+P114,Email notification,Email notification,20.42,12.93
+P114,No interruption,None - control,0.0,1.5
+P114,Another person asking a question,Another person asking a question,20.54,15.27
+P114,Social media notification,Social media notification,12.63,13.62
+P114,Message notification,Message notification,9.43,24.54
+P114,Phone call,Phone call,14.0,12.91
+P114,Unrelated computer task,Unrelated computer task,29.09,13.52
+P115,Message notification,Message notification,6.1,8.89
+P115,Cognitively demanding question,Cognitively demanding question,28.3,17.87
+P115,Another person asking a question,Another person asking a question,22.69,11.1
+P115,No interruption,None - control,0.0,1.5
+P115,Email notification,Email notification,15.45,13.12
+P115,Phone call,Phone call,23.57,15.31
+P115,Social media notification,Social media notification,16.56,13.21
+P115,Unrelated computer task,Unrelated computer task,18.11,11.44
+P116,Social media notification,Social media notification,11.85,14.21
+P116,Phone call,Phone call,18.07,8.5
+P116,Another person asking a question,Another person asking a question,8.3,14.84
+P116,Email notification,Email notification,15.46,16.39
+P116,Unrelated computer task,Unrelated computer task,15.26,15.64
+P116,Cognitively demanding question,Cognitively demanding question,30.42,19.04
+P116,No interruption,None - control,0.0,1.5
+P116,Message notification,Message notification,10.55,5.64
+P117,Another person asking a question,Another person asking a question,21.36,8.88
+P117,No interruption,None - control,0.0,1.5
+P117,Unrelated computer task,Unrelated computer task,28.42,21.64
+P117,Phone call,Phone call,26.05,13.46
+P117,Cognitively demanding question,Cognitively demanding question,12.22,10.8
+P117,Social media notification,Social media notification,13.78,16.27
+P117,Message notification,Message notification,7.34,5.72
+P117,Email notification,Email notification,7.56,9.04
+P118,Phone call,Phone call,23.39,22.53
+P118,Cognitively demanding question,Cognitively demanding question,17.38,21.64
+P118,Unrelated computer task,Unrelated computer task,26.58,29.5
+P118,Email notification,Email notification,8.61,15.95
+P118,Message notification,Message notification,8.46,18.39
+P118,Social media notification,Social media notification,12.95,16.72
+P118,Another person asking a question,Another person asking a question,20.67,18.76
+P118,No interruption,None - control,0.0,1.5
+P119,No interruption,None - control,0.0,1.5
+P119,Phone call,Phone call,28.67,37.93
+P119,Cognitively demanding question,Cognitively demanding question,34.9,30.84
+P119,Another person asking a question,Another person asking a question,20.07,24.71
+P119,Social media notification,Social media notification,16.73,15.57
+P119,Unrelated computer task,Unrelated computer task,14.83,20.68
+P119,Email notification,Email notification,12.72,12.2
+P119,Message notification,Message notification,6.05,1.0
+P120,Message notification,Message notification,8.32,31.24
+P120,Social media notification,Social media notification,10.86,24.45
+P120,Cognitively demanding question,Cognitively demanding question,20.26,23.54
+P120,No interruption,None - control,0.0,1.5
+P120,Phone call,Phone call,11.25,8.27
+P120,Another person asking a question,Another person asking a question,21.69,22.92
+P120,Email notification,Email notification,14.16,12.5
+P120,Unrelated computer task,Unrelated computer task,35.79,30.45
+P121,Social media notification,Social media notification,15.69,12.76
+P121,Unrelated computer task,Unrelated computer task,27.5,23.31
+P121,Cognitively demanding question,Cognitively demanding question,25.23,21.12
+P121,Message notification,Message notification,8.17,10.63
+P121,No interruption,None - control,0.0,1.5
+P121,Email notification,Email notification,12.82,17.26
+P121,Another person asking a question,Another person asking a question,26.66,12.59
+P121,Phone call,Phone call,9.33,11.95
+P122,No interruption,None - control,0.0,1.5
+P122,Message notification,Message notification,11.75,30.21
+P122,Phone call,Phone call,22.06,28.77
+P122,Social media notification,Social media notification,9.03,11.02
+P122,Email notification,Email notification,17.15,20.31
+P122,Cognitively demanding question,Cognitively demanding question,32.56,34.37
+P122,Another person asking a question,Another person asking a question,29.36,21.15
+P122,Unrelated computer task,Unrelated computer task,31.74,29.29
+P123,Social media notification,Social media notification,12.32,16.81
+P123,Message notification,Message notification,9.15,7.7
+P123,Email notification,Email notification,9.46,13.01
+P123,Phone call,Phone call,24.48,24.45
+P123,Unrelated computer task,Unrelated computer task,24.88,22.35
+P123,Cognitively demanding question,Cognitively demanding question,22.86,25.84
+P123,Another person asking a question,Another person asking a question,17.06,18.7
+P123,No interruption,None - control,0.0,1.5
+P124,Social media notification,Social media notification,9.79,26.22
+P124,Cognitively demanding question,Cognitively demanding question,34.86,39.34
+P124,Unrelated computer task,Unrelated computer task,20.86,21.93
+P124,Email notification,Email notification,17.2,22.96
+P124,Message notification,Message notification,7.98,16.44
+P124,No interruption,None - control,0.0,1.5
+P124,Another person asking a question,Another person asking a question,18.13,28.78
+P124,Phone call,Phone call,22.68,27.97
+P125,Email notification,Email notification,12.52,13.31
+P125,No interruption,None - control,0.0,1.5
+P125,Social media notification,Social media notification,11.94,16.9
+P125,Unrelated computer task,Unrelated computer task,37.36,23.01
+P125,Message notification,Message notification,10.61,5.88
+P125,Cognitively demanding question,Cognitively demanding question,21.44,9.33
+P125,Another person asking a question,Another person asking a question,15.26,5.32
+P125,Phone call,Phone call,28.9,16.41
+P126,No interruption,None - control,0.0,1.5
+P126,Email notification,Email notification,9.14,22.22
+P126,Phone call,Phone call,25.22,26.31
+P126,Another person asking a question,Another person asking a question,23.39,31.88
+P126,Unrelated computer task,Unrelated computer task,30.14,19.26
+P126,Social media notification,Social media notification,11.12,16.18
+P126,Message notification,Message notification,9.42,26.05
+P126,Cognitively demanding question,Cognitively demanding question,21.6,26.67
+P127,Phone call,Phone call,13.87,13.07
+P127,Email notification,Email notification,14.92,12.12
+P127,Social media notification,Social media notification,16.24,11.97
+P127,Cognitively demanding question,Cognitively demanding question,35.78,22.89
+P127,Unrelated computer task,Unrelated computer task,26.57,19.68
+P127,Another person asking a question,Another person asking a question,17.58,16.34
+P127,Message notification,Message notification,10.58,10.72
+P127,No interruption,None - control,0.0,1.5
+P128,Unrelated computer task,Unrelated computer task,10.76,17.01
+P128,Email notification,Email notification,16.35,10.98
+P128,Social media notification,Social media notification,20.51,20.29
+P128,Phone call,Phone call,30.86,24.89
+P128,Cognitively demanding question,Cognitively demanding question,14.29,23.19
+P128,Message notification,Message notification,7.71,4.89
+P128,No interruption,None - control,0.0,1.5
+P128,Another person asking a question,Another person asking a question,24.78,19.41
+P129,Phone call,Phone call,24.1,14.14
+P129,Message notification,Message notification,7.48,1.0
+P129,Social media notification,Social media notification,14.79,3.79
+P129,No interruption,None - control,0.0,1.5
+P129,Unrelated computer task,Unrelated computer task,37.76,21.18
+P129,Cognitively demanding question,Cognitively demanding question,32.68,8.86
+P129,Email notification,Email notification,7.14,9.35
+P129,Another person asking a question,Another person asking a question,20.6,15.61
+P130,Unrelated computer task,Unrelated computer task,37.47,33.63
+P130,Email notification,Email notification,9.49,18.55
+P130,No interruption,None - control,0.0,1.5
+P130,Another person asking a question,Another person asking a question,22.53,33.62
+P130,Message notification,Message notification,3.0,1.96
+P130,Social media notification,Social media notification,14.36,26.57
+P130,Phone call,Phone call,21.56,11.71
+P130,Cognitively demanding question,Cognitively demanding question,15.7,29.02
+P131,No interruption,None - control,0.0,1.5
+P131,Unrelated computer task,Unrelated computer task,26.94,12.98
+P131,Cognitively demanding question,Cognitively demanding question,22.97,11.42
+P131,Phone call,Phone call,26.08,26.96
+P131,Another person asking a question,Another person asking a question,17.62,10.34
+P131,Social media notification,Social media notification,8.85,1.0
+P131,Email notification,Email notification,14.55,9.6
+P131,Message notification,Message notification,3.0,3.38
+P132,Cognitively demanding question,Cognitively demanding question,13.66,24.63
+P132,Message notification,Message notification,3.0,15.94
+P132,Phone call,Phone call,25.05,19.62
+P132,Unrelated computer task,Unrelated computer task,35.54,28.6
+P132,Another person asking a question,Another person asking a question,8.55,13.86
+P132,No interruption,None - control,0.0,1.5
+P132,Social media notification,Social media notification,19.69,20.41
+P132,Email notification,Email notification,10.08,9.72
+P133,No interruption,None - control,0.0,1.5
+P133,Another person asking a question,Another person asking a question,16.18,7.45
+P133,Unrelated computer task,Unrelated computer task,22.36,18.81
+P133,Message notification,Message notification,9.04,8.91
+P133,Phone call,Phone call,17.16,12.33
+P133,Social media notification,Social media notification,8.65,1.0
+P133,Email notification,Email notification,11.34,8.45
+P133,Cognitively demanding question,Cognitively demanding question,21.68,14.87
+P134,No interruption,None - control,0.0,1.5
+P134,Email notification,Email notification,14.48,18.08
+P134,Social media notification,Social media notification,14.12,20.92
+P134,Unrelated computer task,Unrelated computer task,27.33,20.48
+P134,Cognitively demanding question,Cognitively demanding question,22.25,23.78
+P134,Message notification,Message notification,6.8,15.1
+P134,Phone call,Phone call,22.43,18.9
+P134,Another person asking a question,Another person asking a question,3.0,17.29
+P135,Phone call,Phone call,20.97,26.54
+P135,Cognitively demanding question,Cognitively demanding question,24.64,16.84
+P135,Email notification,Email notification,13.89,25.17
+P135,Message notification,Message notification,11.26,14.9
+P135,Social media notification,Social media notification,3.75,11.9
+P135,Unrelated computer task,Unrelated computer task,17.31,18.98
+P135,Another person asking a question,Another person asking a question,21.92,27.1
+P135,No interruption,None - control,0.0,1.5
+P136,Social media notification,Social media notification,16.59,19.21
+P136,Message notification,Message notification,8.97,18.22
+P136,Cognitively demanding question,Cognitively demanding question,13.44,12.14
+P136,Email notification,Email notification,13.14,16.08
+P136,Unrelated computer task,Unrelated computer task,31.81,17.27
+P136,No interruption,None - control,0.0,1.5
+P136,Phone call,Phone call,12.93,16.98
+P136,Another person asking a question,Another person asking a question,23.74,22.73
+P137,Another person asking a question,Another person asking a question,22.91,19.37
+P137,Cognitively demanding question,Cognitively demanding question,19.85,33.43
+P137,Email notification,Email notification,9.38,21.55
+P137,Unrelated computer task,Unrelated computer task,25.57,29.16
+P137,Phone call,Phone call,22.14,25.67
+P137,Social media notification,Social media notification,9.29,17.9
+P137,No interruption,None - control,0.0,1.5
+P137,Message notification,Message notification,9.09,17.19
+P138,Phone call,Phone call,22.37,10.59
+P138,Message notification,Message notification,9.11,12.3
+P138,Email notification,Email notification,7.86,16.82
+P138,Cognitively demanding question,Cognitively demanding question,22.13,20.62
+P138,No interruption,None - control,0.0,1.5
+P138,Another person asking a question,Another person asking a question,21.37,21.58
+P138,Unrelated computer task,Unrelated computer task,21.41,24.37
+P138,Social media notification,Social media notification,16.84,13.44
+P139,Another person asking a question,Another person asking a question,22.08,21.58
+P139,Message notification,Message notification,7.37,14.34
+P139,Social media notification,Social media notification,6.89,19.44
+P139,Email notification,Email notification,13.07,8.79
+P139,Cognitively demanding question,Cognitively demanding question,34.75,31.8
+P139,No interruption,None - control,0.0,1.5
+P139,Phone call,Phone call,16.12,13.82
+P139,Unrelated computer task,Unrelated computer task,11.91,11.81
+P140,No interruption,None - control,0.0,1.5
+P140,Message notification,Message notification,12.4,11.06
+P140,Cognitively demanding question,Cognitively demanding question,21.61,10.81
+P140,Social media notification,Social media notification,18.99,17.36
+P140,Unrelated computer task,Unrelated computer task,32.09,18.12
+P140,Phone call,Phone call,13.36,14.92
+P140,Email notification,Email notification,13.42,2.97
+P140,Another person asking a question,Another person asking a question,19.2,12.48
+P141,No interruption,None - control,0.0,1.5
+P141,Another person asking a question,Another person asking a question,15.47,29.54
+P141,Cognitively demanding question,Cognitively demanding question,24.62,17.65
+P141,Email notification,Email notification,10.16,1.94
+P141,Social media notification,Social media notification,15.42,21.85
+P141,Message notification,Message notification,7.09,6.2
+P141,Phone call,Phone call,30.59,24.43
+P141,Unrelated computer task,Unrelated computer task,17.0,10.22
+P142,Message notification,Message notification,3.54,6.38
+P142,Email notification,Email notification,9.7,18.12
+P142,Social media notification,Social media notification,16.11,13.41
+P142,Phone call,Phone call,18.05,13.04
+P142,Another person asking a question,Another person asking a question,19.64,25.9
+P142,No interruption,None - control,0.0,1.5
+P142,Cognitively demanding question,Cognitively demanding question,22.87,16.12
+P142,Unrelated computer task,Unrelated computer task,27.48,16.58
+P143,Social media notification,Social media notification,7.77,15.55
+P143,Phone call,Phone call,22.27,17.06
+P143,Unrelated computer task,Unrelated computer task,13.82,21.44
+P143,Cognitively demanding question,Cognitively demanding question,17.93,16.55
+P143,No interruption,None - control,0.0,1.5
+P143,Message notification,Message notification,9.59,21.09
+P143,Another person asking a question,Another person asking a question,14.92,18.37
+P143,Email notification,Email notification,3.0,12.03
+P144,Unrelated computer task,Unrelated computer task,34.74,17.69
+P144,Cognitively demanding question,Cognitively demanding question,16.06,18.77
+P144,Another person asking a question,Another person asking a question,22.63,14.69
+P144,Phone call,Phone call,19.44,14.61
+P144,Email notification,Email notification,11.37,16.74
+P144,Message notification,Message notification,6.35,6.19
+P144,No interruption,None - control,0.0,1.5
+P144,Social media notification,Social media notification,13.07,8.18
+P145,Social media notification,Social media notification,11.54,10.73
+P145,No interruption,None - control,0.0,1.5
+P145,Unrelated computer task,Unrelated computer task,22.89,28.57
+P145,Email notification,Email notification,12.4,4.24
+P145,Cognitively demanding question,Cognitively demanding question,29.28,24.52
+P145,Another person asking a question,Another person asking a question,15.17,21.26
+P145,Message notification,Message notification,9.66,14.12
+P145,Phone call,Phone call,24.8,19.7
+P146,Email notification,Email notification,16.71,15.74
+P146,Social media notification,Social media notification,19.85,15.76
+P146,Unrelated computer task,Unrelated computer task,32.53,21.06
+P146,Cognitively demanding question,Cognitively demanding question,20.25,7.45
+P146,Phone call,Phone call,30.29,20.67
+P146,No interruption,None - control,0.0,1.5
+P146,Another person asking a question,Another person asking a question,21.83,7.23
+P146,Message notification,Message notification,5.94,8.18
+P147,Another person asking a question,Another person asking a question,15.94,14.0
+P147,No interruption,None - control,0.0,1.5
+P147,Social media notification,Social media notification,15.73,12.03
+P147,Phone call,Phone call,8.84,15.95
+P147,Message notification,Message notification,11.5,4.87
+P147,Cognitively demanding question,Cognitively demanding question,29.1,26.46
+P147,Email notification,Email notification,3.41,12.14
+P147,Unrelated computer task,Unrelated computer task,22.69,24.52
+P148,Unrelated computer task,Unrelated computer task,34.77,24.22
+P148,No interruption,None - control,0.0,1.5
+P148,Social media notification,Social media notification,15.94,19.24
+P148,Another person asking a question,Another person asking a question,11.27,10.53
+P148,Cognitively demanding question,Cognitively demanding question,23.96,32.7
+P148,Message notification,Message notification,9.89,9.87
+P148,Phone call,Phone call,22.08,18.12
+P148,Email notification,Email notification,15.14,16.3
+P149,Social media notification,Social media notification,15.27,24.34
+P149,No interruption,None - control,0.0,1.5
+P149,Another person asking a question,Another person asking a question,12.14,13.1
+P149,Phone call,Phone call,25.5,25.98
+P149,Message notification,Message notification,10.3,13.04
+P149,Cognitively demanding question,Cognitively demanding question,22.67,26.42
+P149,Email notification,Email notification,5.95,17.3
+P149,Unrelated computer task,Unrelated computer task,25.6,15.66
+P150,Social media notification,Social media notification,13.27,24.28
+P150,Phone call,Phone call,23.35,33.15
+P150,Another person asking a question,Another person asking a question,21.6,17.75
+P150,Message notification,Message notification,5.67,7.3
+P150,No interruption,None - control,0.0,1.5
+P150,Unrelated computer task,Unrelated computer task,28.47,30.66
+P150,Email notification,Email notification,12.24,17.02
+P150,Cognitively demanding question,Cognitively demanding question,36.55,47.23
+P151,Another person asking a question,Another person asking a question,11.46,11.99
+P151,Social media notification,Social media notification,13.03,13.92
+P151,Phone call,Phone call,18.05,16.5
+P151,Message notification,Message notification,5.39,5.51
+P151,Email notification,Email notification,11.22,14.12
+P151,Cognitively demanding question,Cognitively demanding question,38.89,27.37
+P151,No interruption,None - control,0.0,1.5
+P151,Unrelated computer task,Unrelated computer task,10.81,16.51
+P152,Another person asking a question,Another person asking a question,14.61,10.09
+P152,Message notification,Message notification,6.05,2.55
+P152,Social media notification,Social media notification,15.14,12.79
+P152,Phone call,Phone call,15.7,9.95
+P152,Email notification,Email notification,14.33,17.93
+P152,No interruption,None - control,0.0,1.5
+P152,Cognitively demanding question,Cognitively demanding question,18.02,18.14
+P152,Unrelated computer task,Unrelated computer task,19.83,17.07
+P153,Cognitively demanding question,Cognitively demanding question,27.59,27.85
+P153,Social media notification,Social media notification,21.62,23.71
+P153,Message notification,Message notification,10.06,14.14
+P153,Email notification,Email notification,8.35,18.22
+P153,Unrelated computer task,Unrelated computer task,15.88,21.34
+P153,No interruption,None - control,0.0,1.5
+P153,Phone call,Phone call,22.06,15.63
+P153,Another person asking a question,Another person asking a question,21.9,21.55
+P154,Email notification,Email notification,12.67,15.32
+P154,No interruption,None - control,0.0,1.5
+P154,Another person asking a question,Another person asking a question,16.64,17.49
+P154,Social media notification,Social media notification,20.69,17.68
+P154,Cognitively demanding question,Cognitively demanding question,23.72,11.28
+P154,Phone call,Phone call,20.87,27.02
+P154,Unrelated computer task,Unrelated computer task,36.07,17.73
+P154,Message notification,Message notification,4.31,19.17
+P155,Another person asking a question,Another person asking a question,23.35,30.07
+P155,Phone call,Phone call,18.19,10.16
+P155,Cognitively demanding question,Cognitively demanding question,32.14,32.49
+P155,Message notification,Message notification,4.46,8.22
+P155,No interruption,None - control,0.0,1.5
+P155,Unrelated computer task,Unrelated computer task,34.81,22.33
+P155,Email notification,Email notification,12.38,19.38
+P155,Social media notification,Social media notification,17.78,14.82
+P156,Phone call,Phone call,25.73,18.36
+P156,Another person asking a question,Another person asking a question,17.12,28.53
+P156,Unrelated computer task,Unrelated computer task,18.41,21.73
+P156,No interruption,None - control,0.0,1.5
+P156,Email notification,Email notification,9.74,17.37
+P156,Social media notification,Social media notification,16.5,5.56
+P156,Message notification,Message notification,7.19,28.61
+P156,Cognitively demanding question,Cognitively demanding question,23.57,24.84
+P157,Message notification,Message notification,5.81,21.69
+P157,Phone call,Phone call,24.36,31.48
+P157,Another person asking a question,Another person asking a question,15.15,14.1
+P157,Cognitively demanding question,Cognitively demanding question,12.92,14.97
+P157,No interruption,None - control,0.0,1.5
+P157,Social media notification,Social media notification,16.55,23.31
+P157,Unrelated computer task,Unrelated computer task,33.07,31.94
+P157,Email notification,Email notification,13.4,31.35
+P158,Another person asking a question,Another person asking a question,12.42,32.78
+P158,No interruption,None - control,0.0,1.5
+P158,Phone call,Phone call,18.19,15.09
+P158,Message notification,Message notification,14.67,15.54
+P158,Cognitively demanding question,Cognitively demanding question,19.23,15.69
+P158,Social media notification,Social media notification,20.07,31.98
+P158,Unrelated computer task,Unrelated computer task,46.81,39.83
+P158,Email notification,Email notification,10.37,1.0
+P159,No interruption,None - control,0.0,1.5
+P159,Email notification,Email notification,14.6,12.48
+P159,Phone call,Phone call,20.43,25.11
+P159,Social media notification,Social media notification,14.21,20.83
+P159,Unrelated computer task,Unrelated computer task,17.12,26.26
+P159,Another person asking a question,Another person asking a question,13.79,20.57
+P159,Message notification,Message notification,9.61,16.27
+P159,Cognitively demanding question,Cognitively demanding question,33.6,32.88
+P160,Phone call,Phone call,21.47,13.15
+P160,Email notification,Email notification,14.08,16.01
+P160,Social media notification,Social media notification,17.5,4.55
+P160,Unrelated computer task,Unrelated computer task,24.04,23.8
+P160,No interruption,None - control,0.0,1.5
+P160,Another person asking a question,Another person asking a question,6.34,10.56
+P160,Cognitively demanding question,Cognitively demanding question,32.15,24.34
+P160,Message notification,Message notification,7.7,9.4
+P161,Another person asking a question,Another person asking a question,11.24,16.05
+P161,Message notification,Message notification,4.54,9.1
+P161,Social media notification,Social media notification,15.22,9.14
+P161,No interruption,None - control,0.0,1.5
+P161,Phone call,Phone call,22.93,8.28
+P161,Cognitively demanding question,Cognitively demanding question,7.8,24.33
+P161,Email notification,Email notification,14.48,12.23
+P161,Unrelated computer task,Unrelated computer task,18.59,22.5
+P162,Phone call,Phone call,24.35,21.0
+P162,Unrelated computer task,Unrelated computer task,38.32,29.31
+P162,Email notification,Email notification,18.27,22.33
+P162,Message notification,Message notification,8.44,1.0
+P162,No interruption,None - control,0.0,1.5
+P162,Another person asking a question,Another person asking a question,16.03,18.13
+P162,Social media notification,Social media notification,10.15,11.33
+P162,Cognitively demanding question,Cognitively demanding question,28.8,23.19
+P163,Unrelated computer task,Unrelated computer task,27.75,25.43
+P163,Another person asking a question,Another person asking a question,17.71,25.95
+P163,Message notification,Message notification,3.26,13.84
+P163,Social media notification,Social media notification,11.53,5.92
+P163,No interruption,None - control,0.0,1.5
+P163,Cognitively demanding question,Cognitively demanding question,19.34,14.66
+P163,Phone call,Phone call,14.2,26.24
+P163,Email notification,Email notification,8.83,28.93
+P164,Phone call,Phone call,14.89,26.53
+P164,Social media notification,Social media notification,8.52,12.35
+P164,Another person asking a question,Another person asking a question,3.0,3.62
+P164,Email notification,Email notification,11.54,20.67
+P164,Unrelated computer task,Unrelated computer task,42.01,42.78
+P164,Message notification,Message notification,7.03,18.88
+P164,No interruption,None - control,0.0,1.5
+P164,Cognitively demanding question,Cognitively demanding question,23.02,21.37
+P165,Message notification,Message notification,8.19,17.71
+P165,Social media notification,Social media notification,15.72,17.7
+P165,Unrelated computer task,Unrelated computer task,35.81,19.53
+P165,No interruption,None - control,0.0,1.5
+P165,Phone call,Phone call,21.78,20.29
+P165,Email notification,Email notification,14.03,10.34
+P165,Another person asking a question,Another person asking a question,14.12,8.33
+P165,Cognitively demanding question,Cognitively demanding question,14.3,13.53
+P166,Cognitively demanding question,Cognitively demanding question,22.4,19.36
+P166,Unrelated computer task,Unrelated computer task,37.68,18.77
+P166,Phone call,Phone call,30.4,21.77
+P166,No interruption,None - control,0.0,1.5
+P166,Message notification,Message notification,6.58,7.52
+P166,Social media notification,Social media notification,13.7,22.7
+P166,Email notification,Email notification,19.18,10.32
+P166,Another person asking a question,Another person asking a question,10.04,6.66
+P167,Message notification,Message notification,7.86,14.66
+P167,Unrelated computer task,Unrelated computer task,5.1,13.33
+P167,Email notification,Email notification,7.74,9.21
+P167,No interruption,None - control,0.0,1.5
+P167,Social media notification,Social media notification,16.4,20.81
+P167,Phone call,Phone call,19.33,22.2
+P167,Cognitively demanding question,Cognitively demanding question,19.56,23.72
+P167,Another person asking a question,Another person asking a question,20.96,15.89
+P168,Message notification,Message notification,6.26,4.21
+P168,Cognitively demanding question,Cognitively demanding question,19.21,15.24
+P168,Email notification,Email notification,18.25,17.69
+P168,No interruption,None - control,0.0,1.5
+P168,Social media notification,Social media notification,3.0,1.0
+P168,Unrelated computer task,Unrelated computer task,20.28,10.71
+P168,Another person asking a question,Another person asking a question,13.44,18.77
+P168,Phone call,Phone call,14.25,16.1
+P169,Unrelated computer task,Unrelated computer task,17.57,16.61
+P169,Cognitively demanding question,Cognitively demanding question,18.11,12.31
+P169,Message notification,Message notification,6.34,6.51
+P169,Phone call,Phone call,14.22,13.42
+P169,No interruption,None - control,0.0,1.5
+P169,Another person asking a question,Another person asking a question,17.71,14.5
+P169,Email notification,Email notification,14.23,12.68
+P169,Social media notification,Social media notification,11.02,18.86
+P170,Unrelated computer task,Unrelated computer task,25.87,27.82
+P170,Another person asking a question,Another person asking a question,8.57,14.94
+P170,Social media notification,Social media notification,14.78,10.98
+P170,Phone call,Phone call,24.09,23.56
+P170,Email notification,Email notification,10.03,13.14
+P170,Cognitively demanding question,Cognitively demanding question,21.89,25.69
+P170,Message notification,Message notification,8.96,11.2
+P170,No interruption,None - control,0.0,1.5
+P171,Cognitively demanding question,Cognitively demanding question,34.67,29.66
+P171,Social media notification,Social media notification,17.98,18.26
+P171,No interruption,None - control,0.0,1.5
+P171,Email notification,Email notification,14.31,11.69
+P171,Message notification,Message notification,9.98,27.58
+P171,Unrelated computer task,Unrelated computer task,20.01,21.95
+P171,Phone call,Phone call,32.24,26.66
+P171,Another person asking a question,Another person asking a question,19.85,31.28
+P172,Social media notification,Social media notification,10.17,23.98
+P172,Phone call,Phone call,24.5,16.66
+P172,No interruption,None - control,0.0,1.5
+P172,Cognitively demanding question,Cognitively demanding question,19.5,23.48
+P172,Unrelated computer task,Unrelated computer task,17.39,14.69
+P172,Email notification,Email notification,15.84,19.32
+P172,Message notification,Message notification,7.25,1.0
+P172,Another person asking a question,Another person asking a question,19.23,18.05
+P173,Another person asking a question,Another person asking a question,25.56,29.52
+P173,Message notification,Message notification,4.35,10.1
+P173,No interruption,None - control,0.0,1.5
+P173,Unrelated computer task,Unrelated computer task,28.15,18.77
+P173,Email notification,Email notification,9.27,21.04
+P173,Social media notification,Social media notification,16.05,21.39
+P173,Cognitively demanding question,Cognitively demanding question,26.34,21.13
+P173,Phone call,Phone call,24.4,26.25
+P174,Phone call,Phone call,24.72,13.93
+P174,Email notification,Email notification,16.22,12.02
+P174,Another person asking a question,Another person asking a question,9.26,8.88
+P174,Cognitively demanding question,Cognitively demanding question,12.68,14.52
+P174,Message notification,Message notification,11.0,5.5
+P174,No interruption,None - control,0.0,1.5
+P174,Unrelated computer task,Unrelated computer task,35.6,24.38
+P174,Social media notification,Social media notification,11.94,4.48
+P175,Phone call,Phone call,17.11,13.63
+P175,No interruption,None - control,0.0,1.5
+P175,Unrelated computer task,Unrelated computer task,27.19,26.67
+P175,Cognitively demanding question,Cognitively demanding question,20.45,10.01
+P175,Email notification,Email notification,7.88,19.19
+P175,Another person asking a question,Another person asking a question,26.08,10.25
+P175,Message notification,Message notification,5.96,11.32
+P175,Social media notification,Social media notification,17.01,16.45
+P176,Email notification,Email notification,10.45,12.08
+P176,Social media notification,Social media notification,19.13,17.73
+P176,Phone call,Phone call,27.65,11.26
+P176,Cognitively demanding question,Cognitively demanding question,24.05,13.73
+P176,Another person asking a question,Another person asking a question,15.93,9.07
+P176,No interruption,None - control,0.0,1.5
+P176,Unrelated computer task,Unrelated computer task,23.83,21.13
+P176,Message notification,Message notification,5.17,6.31
+P177,Cognitively demanding question,Cognitively demanding question,25.35,25.26
+P177,Unrelated computer task,Unrelated computer task,23.99,28.15
+P177,Email notification,Email notification,5.91,5.55
+P177,No interruption,None - control,0.0,1.5
+P177,Message notification,Message notification,6.44,7.08
+P177,Another person asking a question,Another person asking a question,16.68,19.45
+P177,Social media notification,Social media notification,21.34,23.83
+P177,Phone call,Phone call,26.67,31.64
+P178,Message notification,Message notification,5.25,11.48
+P178,No interruption,None - control,0.0,1.5
+P178,Email notification,Email notification,11.11,3.81
+P178,Cognitively demanding question,Cognitively demanding question,22.07,15.42
+P178,Another person asking a question,Another person asking a question,14.66,22.37
+P178,Social media notification,Social media notification,3.0,9.52
+P178,Phone call,Phone call,24.0,34.01
+P178,Unrelated computer task,Unrelated computer task,15.79,26.13
+P179,Email notification,Email notification,13.63,21.88
+P179,Phone call,Phone call,22.16,49.79
+P179,Another person asking a question,Another person asking a question,10.44,14.04
+P179,Social media notification,Social media notification,9.28,15.83
+P179,Unrelated computer task,Unrelated computer task,31.66,34.03
+P179,Cognitively demanding question,Cognitively demanding question,28.95,22.67
+P179,No interruption,None - control,0.0,1.5
+P179,Message notification,Message notification,9.66,1.0
+P180,Cognitively demanding question,Cognitively demanding question,35.26,37.82
+P180,Email notification,Email notification,14.19,9.37
+P180,No interruption,None - control,0.0,1.5
+P180,Another person asking a question,Another person asking a question,10.29,22.56
+P180,Phone call,Phone call,26.79,17.1
+P180,Social media notification,Social media notification,14.15,18.86
+P180,Unrelated computer task,Unrelated computer task,20.51,22.03
+P180,Message notification,Message notification,7.43,13.73

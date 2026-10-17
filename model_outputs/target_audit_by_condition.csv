@@ -1,0 +1,9 @@
+condition,count,mean,std,min,max
+Another person asking a question,180,17.575,6.725,3.62,39.03
+Cognitively demanding question,180,22.633,7.884,7.44,47.23
+Email notification,180,14.225,6.323,1.0,42.58
+Message notification,180,12.418,6.972,1.0,39.0
+No interruption,180,1.5,0.0,1.5,1.5
+Phone call,180,19.735,8.302,1.0,49.79
+Social media notification,180,15.409,6.764,1.0,39.04
+Unrelated computer task,180,24.36,8.063,6.77,48.21

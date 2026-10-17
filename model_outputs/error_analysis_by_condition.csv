@@ -1,0 +1,17 @@
+condition,model,trials,MAE_seconds,RMSE_seconds,mean_signed_error_seconds
+Another person asking a question,Model A - Early prediction,36,5.956878363434405,7.480920722037326,-0.0878214354292818
+Another person asking a question,Model B - Duration available,36,4.999082785539924,5.998592377290746,0.34082511254450126
+Cognitively demanding question,Model A - Early prediction,36,4.311382086013265,5.460061398861653,0.741366017930114
+Cognitively demanding question,Model B - Duration available,36,4.606212500041713,5.522446453659552,1.458765835538522
+Email notification,Model A - Early prediction,36,4.92538886854144,6.204182455724657,0.45115479534611297
+Email notification,Model B - Duration available,36,5.096083201831604,6.3218821708566875,0.9222902926163328
+Message notification,Model A - Early prediction,36,5.105218229797465,6.180990562689499,-3.1764879036421396
+Message notification,Model B - Duration available,36,4.9881158402481685,5.9985040459008,-2.2097094895155696
+No interruption,Model A - Early prediction,36,0.0,0.0,0.0
+No interruption,Model B - Duration available,36,0.0023869482523649374,0.00475945076125477,0.00034442700817703827
+Phone call,Model A - Early prediction,36,5.790535952093173,6.980363904551643,0.24914668709376833
+Phone call,Model B - Duration available,36,5.398767187893203,6.4440160554203345,-0.5256927336949865
+Social media notification,Model A - Early prediction,36,5.463617628533866,6.432074926795953,0.404895828877758
+Social media notification,Model B - Duration available,36,4.28593597728532,5.320766270983512,0.5872991280286038
+Unrelated computer task,Model A - Early prediction,36,5.902992331469972,7.737516477844733,-0.07064489779253928
+Unrelated computer task,Model B - Duration available,36,5.472434965565255,6.933982353600606,-0.10877686641676594

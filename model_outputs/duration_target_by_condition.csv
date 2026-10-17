@@ -1,0 +1,9 @@
+condition,trials,mean_duration,mean_target,duration_std,target_std
+Another person asking a question,144,17.714,17.385,5.707,6.461
+Cognitively demanding question,144,23.938,22.44,7.082,8.349
+Email notification,144,12.588,13.951,3.63,6.242
+Message notification,144,8.256,12.942,2.447,6.983
+No interruption,144,0.0,1.5,0.0,0.0
+Phone call,144,20.805,19.801,6.323,8.598
+Social media notification,144,14.592,14.996,4.726,6.91
+Unrelated computer task,144,27.164,24.392,8.009,7.984
